@@ -1,15 +1,12 @@
-# "Submission Dicoding: Belajar Data Analytics dengan Python"
+# Submission Dicoding: Belajar Data Analytics dengan Python
 
 ## Project Data Analytics
-
 Ini adalah proyek data analytics yang saya kembangkan dengan **Streamlit** <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo"></img>
 
 ## Deskripsi
-
 Proyek ini bertujuan untuk menganalisis E-Commerce Public Dataset guna mendapatkan wawasan serta informasi yang bermanfaat dari data yang diolah.
 
 ## Struktur Direktori
-
 - **/E-Commerce Public Dataset**: Berisi dataset dalam format .csv yang digunakan untuk analisis.
 - **all_data.csv**: Berisi dataset yang sudah diolah
 - **dash.py**: File code untuk deploy di streamlit
@@ -32,9 +29,7 @@ Pastikan Anda memiliki Python serta pustaka yang dibutuhkan. Gunakan perintah be
    ```
 
 ## Menjalankan Proyek
-
-Cara Menjalankan Secara Lokal
-Masuk ke folder proyek dan jalankan Streamlit:
+   Buka terminal lalu tuliskan code berikut:
 
    ```shell
    streamlit run dash.py
