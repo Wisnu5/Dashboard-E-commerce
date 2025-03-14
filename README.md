@@ -32,7 +32,7 @@ Pastikan Anda memiliki Python serta pustaka yang dibutuhkan. Gunakan perintah be
    Buka terminal lalu tuliskan code berikut:
 
    ```shell
-   streamlit run dash.py
+   streamlit run dashboard.py
    ```
 
    Anda juga bisa mengakses dashboard langsung melalui tautan berikut: [Project Data Analytics](https://dicoding-dashboard-e-commerce-iqwmclasffkopvcpawes4z.streamlit.app/) 
