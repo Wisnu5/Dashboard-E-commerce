@@ -73,6 +73,15 @@ filtered_payments = order_payments_df[order_payments_df['order_id'].isin(filtere
 # ============================
 # TAB ANALISIS
 # ============================
+
+# time loader
+import time
+my_bar = st.progress(0)
+for percent_complete in range(100):
+    time.sleep(0.1)
+    my_bar.progress(percent_complete + 1)
+
+
 tab1, tab2, tab3, tab4 = st.tabs([
     "📌 Produk Populer", 
     "💳 Metode Pembayaran", 
