@@ -37,6 +37,7 @@ Pastikan Anda memiliki Python serta pustaka yang dibutuhkan. Gunakan perintah be
 
    Anda juga bisa mengakses dashboard langsung melalui tautan berikut: [Project Data Analytics](https://dicoding-dashboard-e-commerce-iqwmclasffkopvcpawes4z.streamlit.app/) 
 
-## Kontribusi
-
-Terbuka untuk kontribusi! Jika ingin berkontribusi, silakan buat pull request dan jelaskan perubahan yang Anda lakukan secara jelas.
+```
+## Author
+**Wisnu - Machine Learning Enthusiast**  
+IPB University, Computer Science 💻
